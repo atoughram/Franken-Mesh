@@ -1480,6 +1480,12 @@
     (uuid fc647afa-09ac-4e06-9cb0-0e688f0a5264)
   )
 
+  (text "Set Meshtastic Firmare to the following\nRedefine GPS_RX_PIN = 16\nRedefine GPS_TX_PIN = 17"
+    (at 242.57 149.86 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c454a14f-69c6-49c4-9ad2-fc6eab7438cf)
+  )
+
   (global_label "MISO" (shape input) (at 120.65 80.01 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0519c978-83f6-4fb3-b7da-e90b1a6a3ddc)
