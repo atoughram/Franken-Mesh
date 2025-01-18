@@ -5,7 +5,7 @@ A Meshtastic project using a 30dbm (1W) LORA Radio (E22-900M30S) and an EPS32-DE
 
 I've used this for both mobile and fixed operations with good luck.  There are STL files for a 3d printing a simple enclosure for the PCB.
 
-![Franken Mesh] (/blob/main/images/PXL_20240928_021302629.jpg "Franken-Mesh")
+![Franken Mesh] (https://raw.githubusercontent.com/atoughram/Franken-Mesh/refs/heads/main/images/PXL_20240928_021302629.jpg?token=GHSAT0AAAAAACWR7Y4NUE7GFAVV6GQ4MDRKZ4LLJEQ "Franken-Mesh")
 
 MIT License
 
