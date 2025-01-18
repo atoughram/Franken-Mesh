@@ -5,21 +5,4 @@ A Meshtastic project using a 30dbm (1W) LORA Radio (E22-900M30S) and an EPS32-DE
 
 I've used this for both mobile and fixed operations with good luck.  There are STL files for a 3d printing a simple enclosure for the PCB.
 
-{
-    "name": "Public Domain Mark (PD)",
-    "priority": 1,
-    "available": true,
-    "url": "http://creativecommons.org/publicdomain/mark/1.0/",
-    "description": "The work identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
-    "categories": [
-        "public",
-        "data",
-        "software",
-        "public-domain"
-    ],
-    "labels": [
-        "public",
-        "pd"
-    ],
-    "key": "cc-public-domain"
-}
+
