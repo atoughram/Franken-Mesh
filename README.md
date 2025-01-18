@@ -1,2 +1,25 @@
 # Franken-Mesh
- DIY 1W LORA Node for Meshtastic
+## DIY 1W LORA Node for Meshtastic
+
+A Meshtastic project using a 30dbm (1W) LORA Radio (E22-900M30S) and an EPS32-DEVKIT-V1.  The circuit also adds four I2C ports for other sensors like a BME280 enviromental sensor, or any other sensor suported by Meshtastic.  There is also a TTL serial port for use with a GPS module and a ssd1306 connector if a Oled screen is wanted.
+
+I've used this for both mobile and fixed operations with good luck.  There are STL files for a 3d printing a simple enclosure for the PCB.
+
+{
+    "name": "Public Domain Mark (PD)",
+    "priority": 1,
+    "available": true,
+    "url": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "description": "The work identified as being free of known restrictions under copyright law, including all related and neighboring rights.",
+    "categories": [
+        "public",
+        "data",
+        "software",
+        "public-domain"
+    ],
+    "labels": [
+        "public",
+        "pd"
+    ],
+    "key": "cc-public-domain"
+}
